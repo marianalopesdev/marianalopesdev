@@ -28,4 +28,4 @@
 <br>
 ![marianalopesdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianalopesdev&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
